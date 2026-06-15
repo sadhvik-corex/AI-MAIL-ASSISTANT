@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 .env
+events.json
+credentials.json
+token.json
+processed_emails.json
